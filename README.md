@@ -1,6 +1,6 @@
 # df-mod2-forensic-copy
 
-#In this project I created a folder with forensic evidence and made a copy of that folder ensuring that the SHA256 values match for both folders. This means that the copy folder is a forensically sound copy. For evidence I just made some fake files along with some images that I had on my desktop already.
+#In this project, I created a folder with forensic evidence and made a copy of that folder ensuring that the SHA256 values match for both folders. This means that the copy folder is a forensically sound copy. For evidence, I just made some fake files along with some images that I had on my desktop already.
 
 
 ##Here are the hashes from the original evidence folder: 
